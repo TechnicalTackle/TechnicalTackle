@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechnicalTackle
 - 👀 I’m interested in AppDevelopment
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Google Development Student Club
+- 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me https://github.com/TechnicalTackle
 
 <!---
